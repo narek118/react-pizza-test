@@ -1,0 +1,5 @@
+- Simple `index.html` loading `bundle.js`.
+- Starter `index.jsx` for React.
+- All code following Airbnb's JavaScript (ES6) style guide with ESlint.
+- Webpack dev server with automatic reloading. Start with: `npm start`.
+- Deployment build with `npm run build`.
